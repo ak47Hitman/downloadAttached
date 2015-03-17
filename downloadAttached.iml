@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mail-1.4.1" level="project" />
     <orderEntry type="library" name="commons-lang-2.1" level="project" />
+    <orderEntry type="library" name="poi-3.11-20141221" level="project" />
   </component>
 </module>
